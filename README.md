@@ -3,6 +3,8 @@
 ## Introduction
 + `f1_eval.py`
     + Calculating F1-Score
++ `kfold.py`
+    + Splite Kfold
 + `main.py`
     + Main Template
 + `silent.py`
