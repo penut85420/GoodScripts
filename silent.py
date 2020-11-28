@@ -1,4 +1,5 @@
 import os
+os.environ['LOGURU_AUTOINIT'] = 'False'
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 import logging
 import warnings
